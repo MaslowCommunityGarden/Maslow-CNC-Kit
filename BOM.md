@@ -5,7 +5,7 @@ This is a complete list of the parts that come in the kit. Note that many of the
 ## Nuts and Bolts
 
 |    Part                           |   # Included     |     Source                                                       |   Alt Source   |
-|-----------------------------------|------------------|------------------------------------------------------------------|-----------|
+|-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
 |  Cotter Pins                      |         2        |[fastenall](https://www.fastenal.com/products/details/45287)      |           |
 |Brick Mounting Bolts               |         4        |[fastenall](https://www.fastenal.com/products/details/21171)      |           |
 |Brick Mounting Nuts                |         4        |[fastenall](https://www.fastenal.com/products/details/1136102)    |           |
