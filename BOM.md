@@ -37,4 +37,11 @@ This is a complete list of the parts that come in the kit. Note that many of the
 
 ## Brackets
 
+|    Part                           |   # Included     |     Source                                                       |   Alt Source   |
+|-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
+
+
 ## Electronics
+
+|    Part                           |   # Included     |     Source                                                       |   Alt Source   |
+|-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
