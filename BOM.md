@@ -18,21 +18,21 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |Arduino Screws                     |         4        |[fastenall](https://www.fastenal.com/products/details/31204)      |           |
 |Arduino Screw Spacers              |         4        |[fastenall](https://www.fastenal.com/products/details/0145649)    |           |
 |Chain Alignment Spacer             |         2        |[fastenall](https://www.fastenal.com/products/details/0145790)    |           |
-|Shoulder Bolt                      |                  |                                                                  |           |
-|Sholder Bolt Nut                   |                  |                                                                  |           |
-|Sholder Bolt Washer                |                  |                                                                  |           |
-|Sholder Bolt Allen                 |                  |                                                                  |           |
-|S hooks                            |                  |                                                                  |           |
-|Ring To Brace Bolts                |                  |                                                                  |           |
-|Ring To Brace Nuts                 |                  |                                                                  |           |
-|Ring Brace Screws                  |                  |                                                                  |           |
-|Ring To Brace Bolts Allen          |                  |                                                                  |           |
-|Cable Tie                          |                  |                                                                  |           |
-|Sprocket with shoulder             |                  |                                                                  |           |
-|Sprocket                           |                  |                                                                  |           |
-|Cooling Fin                        |                  |                                                                  |           |
-|Bearing                            |                  |                                                                  |           |
-|Small Nail                         |                  |                                                                  |           |
+|Shoulder Bolt                      |         4        |[fastenall](https://www.fastenal.com/products/details/40011)      |           |
+|Sholder Bolt Nut                   |         4        |[fastenall](https://www.fastenal.com/products/details/40163)      |           |
+|Sholder Bolt Washer                |         8        |[fastenall](https://www.fastenal.com/products/details/40358)      |           |
+|Sholder Bolt Allen                 |         1        |[fastenall](https://www.fastenal.com/products/details/40409)      |           |
+|S hooks                            |         2        |[fastenall](https://www.fastenal.com/products/details/45320)      |           |
+|Ring To Brace Bolts                |        12        |[fastenall](https://www.fastenal.com/products/details/40868)      |           |
+|Ring To Brace Nuts                 |        12        |[fastenall](https://www.fastenal.com/products/details/40143)      |           |
+|Ring Brace Screws                  |        18        |[fastenall](https://www.fastenal.com/products/details/31222)      |           |
+|Ring To Brace Bolts Allen          |         1        |[fastenall](https://www.fastenal.com/products/details/40425)      |           |
+|Cable Tie                          |        12        |[fastenall](https://www.fastenal.com/products/details/63122)      |           |
+|Motor sprocket                     |         2        |    Custom                                                        |           |
+|Slack Sprocket                     |         2        |    Custom                                                        |           |
+|Heatsink                           |         2        |    Custom                                                        |           |
+|Ring Bearing                       |         4        |    Custom                                                        |           |
+|Small Nail                         |         2        |                                                                  |           |
 
 
 ## Brackets
