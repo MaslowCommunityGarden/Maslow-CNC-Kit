@@ -39,7 +39,7 @@ This is a complete list of the parts that come in the kit. Note that many of the
 
 |    Part                           |   # Included     |     Source                                                       |   Alt Source   |
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
-
+| Motor Mount                       |        2         |                                                                  |[Amazon](https://www.amazon.com/gp/product/B073NZ81M9?ie=UTF8&tag=maslowcnc-20&camp=1789&linkCode=xm2&creativeASIN=B073NZ81M9)
 
 ## Electronics
 
