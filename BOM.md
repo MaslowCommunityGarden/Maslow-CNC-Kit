@@ -33,7 +33,9 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |Heatsink                           |         2        |    Custom                                                        |           |
 |Ring Bearing                       |         4        |    Custom                                                        |           |
 |Small Nail                         |         2        |                                                                  |           |
-
+|Z-axis Bolts                       |        12        |[fastenall](https://www.fastenal.com/products/details/40868)      |           |
+|Z-axis Brace Nuts                  |        12        |[fastenall](https://www.fastenal.com/products/details/40143)      |           |
+|Z-axis Brace Screws                |        12        |[fastenall](https://www.fastenal.com/products/details/1131222)    |           |
 
 ## Brackets
 
