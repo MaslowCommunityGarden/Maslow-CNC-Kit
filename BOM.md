@@ -4,8 +4,35 @@ This is a complete list of the parts that come in the kit. Note that many of the
 
 ## Nuts and Bolts
 
-|    Part       |   # Included     |     Source     |   Alt Source   |
-|---------------|------------------|----------------|----------------|
+|    Part                           |   # Included     |     Source                                                   |   Alt Source   |
+|-----------------------------------|------------------|--------------------------------------------------------------|----------------|
+|  Cotter Pins                      |         2        |[45287](https://www.fastenal.com/products/details/45287)      |                |
+Brick Mounting Bolts
+Brick Mounting Nuts
+Short Wood Screws
+Long Wood Screws
+Motor Mounting Screw
+Motor Mounting Washer
+Set Screw for Motor Sprocket
+Set Screw Allen Wrench
+Arduino Screws
+Arduino Screw Spacers
+Chain Alignment Spacer
+Shoulder Bolt
+Sholder Bolt Nut
+Sholder Bolt Washer
+Sholder Bolt Allen
+S hooks
+Ring To Brace Bolts
+Ring To Brace Nuts
+Ring Brace Screws
+Ring To Brace Bolts Allen
+Cable Tie
+Sprocket with shoulder
+Sprocket
+Cooling Fin
+Bearing
+Small Nail
 
 
 ## Brackets
