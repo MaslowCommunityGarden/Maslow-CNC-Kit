@@ -12,12 +12,12 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |Short Wood Screws                  |        14        |[fastenall](https://www.fastenal.com/products/details/32171)      |           |
 |Long Wood Screws                   |        90        |[fastenall](https://www.fastenal.com/products/details/32176)      |           |
 |Motor Mounting Screw               |         8        |[fastenall](https://www.fastenal.com/products/details/91200)      |           |
-|Motor Mounting Washer              |                  |                                                                  |           |
-|Set Screw for Motor Sprocket       |                  |                                                                  |           |
-|Set Screw Allen Wrench             |                  |                                                                  |           |
-|Arduino Screws                     |                  |                                                                  |           |
-|Arduino Screw Spacers              |                  |                                                                  |           |
-|Chain Alignment Spacer             |                  |                                                                  |           |
+|Motor Mounting Washer              |         8        |[fastenall](https://www.fastenal.com/products/details/91200)      |           |
+|Set Screw for Motor Sprocket       |         2        |[fastenall](https://www.fastenal.com/products/details/39847)      |           |
+|Set Screw Allen Wrench             |         1        |[fastenall](https://www.fastenal.com/products/details/40407)      |           |
+|Arduino Screws                     |         4        |[fastenall](https://www.fastenal.com/products/details/31204)      |           |
+|Arduino Screw Spacers              |         4        |[fastenall](https://www.fastenal.com/products/details/0145649)    |           |
+|Chain Alignment Spacer             |         2        |[fastenall](https://www.fastenal.com/products/details/0145790)    |           |
 |Shoulder Bolt                      |                  |                                                                  |           |
 |Sholder Bolt Nut                   |                  |                                                                  |           |
 |Sholder Bolt Washer                |                  |                                                                  |           |
