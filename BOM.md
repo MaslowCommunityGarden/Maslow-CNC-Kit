@@ -41,9 +41,18 @@ This is a complete list of the parts that come in the kit. Note that many of the
 
 |    Part                           |   # Included     |     Source                                                       |   Alt Source   |
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
-| Motor Mount                       |        2         |                                                                  |[Amazon](https://www.amazon.com/gp/product/B073NZ81M9?ie=UTF8&tag=maslowcnc-20&camp=1789&linkCode=xm2&creativeASIN=B073NZ81M9)
+| Motor Mount                       |        2         |                                                                  |[Amazon](https://amzn.to/2LqkbHd)
+| L-Bracket                         |        5         |                            Custom                                |           |
+| Ring                              |        1         |                            Custom                                |           |
 
 ## Electronics
 
 |    Part                           |   # Included     |     Source                                                       |   Alt Source   |
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
+| Power Supply                      |        1         |    Custom                                                        |           |
+| Arduino Mega 2560                 |        1         |    Wholesale                                                     | [Amazon](https://amzn.to/2Lqf35R) |
+| Main Motor                        |        2         |    [Maslow]()
+
+## Other
+
+Chain
