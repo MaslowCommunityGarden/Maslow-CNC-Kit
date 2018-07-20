@@ -47,6 +47,7 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
 | Power Supply (2.5mmx5.5mm plug )  |        1         |    Custom                                | [Amazon](https://amzn.to/2LtO89a) |
 | Arduino Mega 2560                 |        1         |    Wholesale                             | [Amazon](https://amzn.to/2Lqf35R) |
+| Arduino Motor Controller Shield   |        1         |[Maslow](https://www.maslowcnc.com/store/arduino-shield) ||
 | Main Motor                        |        2         |[Maslow](https://www.maslowcnc.com/store/regular-machine-motor-cable)|        |
 | Z-axis Motor                      |        1         |    Custom                                                        |           |
 | Motor Cable                       |        2         |    Custom                                                        |           |
