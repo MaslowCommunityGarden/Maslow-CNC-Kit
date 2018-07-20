@@ -28,10 +28,6 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |Ring Brace Screws                  |        18        |[fastenall](https://www.fastenal.com/products/details/31222)      |           |
 |Ring To Brace Bolts Allen          |         1        |[fastenall](https://www.fastenal.com/products/details/40425)      |           |
 |Cable Tie                          |        12        |[fastenall](https://www.fastenal.com/products/details/63122)      |           |
-|Motor sprocket                     |         2        |    Custom                                                        |           |
-|Slack Sprocket                     |         2        |    Custom                                                        |           |
-|Heatsink                           |         2        |    Custom                                                        |           |
-|Ring Bearing                       |         4        |    Custom                                                        |           |
 |Small Nail                         |         2        |                                                                  |           |
 |Z-axis Bolts                       |        12        |[fastenall](https://www.fastenal.com/products/details/40868)      |           |
 |Z-axis Brace Nuts                  |        12        |[fastenall](https://www.fastenal.com/products/details/40143)      |           |
@@ -52,12 +48,18 @@ This is a complete list of the parts that come in the kit. Note that many of the
 | Power Supply                      |        1         |    Custom                                                        |           |
 | Arduino Mega 2560                 |        1         |    Wholesale                                                     | [Amazon](https://amzn.to/2Lqf35R) |
 | Main Motor                        |        2         |[Maslow](https://www.maslowcnc.com/store/regular-machine-motor-cable)|        |
-| Elastic Cord                      |        2         |    [Amazon](https://amzn.to/2O5Hq83)                             |           |
-| Elastic Cord Pulleys              |        2         |    [Amazon](https://amzn.to/2uNhLYR)                             |           |
 | Z-axis Motor                      |        1         |    Custom                                                        |           |
 | Motor Cable                       |        2         |    Custom                                                        |           |
 | Z-axis Cable                      |        1         |    Custom                                                        |           |
 
 ## Other
 
-Chain
+|    Part                           |   # Included     |     Source                                                       |   Alt Source   |
+|-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
+| Elastic Cord                      |        2         |    [Amazon](https://amzn.to/2O5Hq83)                             |           |
+| Elastic Cord Pulleys              |        2         |    [Amazon](https://amzn.to/2uNhLYR)                             |           |
+| Chain                             |        2         |    Custom                                | [Amazon](https://amzn.to/2O3Ik4N) |
+|Motor sprocket                     |         2        |    Custom                                                        |           |
+|Slack Sprocket                     |         2        |    Custom                                                        |           |
+|Heatsink                           |         2        |    Custom                                                        |           |
+|Ring Bearing                       |         4        |    Custom                                                        |           |
