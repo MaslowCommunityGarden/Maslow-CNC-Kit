@@ -19,9 +19,9 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |Arduino Screw Spacers              |         4        |[fastenall](https://www.fastenal.com/products/details/0145649)    |           |
 |Chain Alignment Spacer             |         2        |[fastenall](https://www.fastenal.com/products/details/0145790)    |           |
 |Shoulder Bolt                      |         4        |[fastenall](https://www.fastenal.com/products/details/40011)      |           |
-|Sholder Bolt Nut                   |         4        |[fastenall](https://www.fastenal.com/products/details/40163)      |           |
-|Sholder Bolt Washer                |         8        |[fastenall](https://www.fastenal.com/products/details/40358)      |           |
-|Sholder Bolt Allen                 |         1        |[fastenall](https://www.fastenal.com/products/details/40409)      |           |
+|Shoulder Bolt Nut                  |         4        |[fastenall](https://www.fastenal.com/products/details/40163)      |           |
+|Shoulder Bolt Washer               |         8        |[fastenall](https://www.fastenal.com/products/details/40358)      |           |
+|Shoulder Bolt Allen                |         1        |[fastenall](https://www.fastenal.com/products/details/40409)      |           |
 |S hooks                            |         2        |[fastenall](https://www.fastenal.com/products/details/45320)      |           |
 |Ring To Brace Bolts                |        12        |[fastenall](https://www.fastenal.com/products/details/40868)      |           |
 |Ring To Brace Nuts                 |        12        |[fastenall](https://www.fastenal.com/products/details/40143)      |           |
@@ -53,7 +53,7 @@ This is a complete list of the parts that come in the kit. Note that many of the
 | Arduino Mega 2560                 |        1         |    Wholesale                                                     | [Amazon](https://amzn.to/2Lqf35R) |
 | Main Motor                        |        2         |[Maslow](https://www.maslowcnc.com/store/regular-machine-motor-cable)|        |
 | Elastic Cord                      |        2         |    [Amazon](https://amzn.to/2O5Hq83)                             |           |
-| Elastic Cord Pullies              |        2         |    [Amazon](https://amzn.to/2uNhLYR)                             |           |
+| Elastic Cord Pulleys              |        2         |    [Amazon](https://amzn.to/2uNhLYR)                             |           |
 | Z-axis Motor                      |        1         |    Custom                                                        |           |
 | Motor Cable                       |        2         |    Custom                                                        |           |
 | Z-axis Cable                      |        1         |    Custom                                                        |           |
