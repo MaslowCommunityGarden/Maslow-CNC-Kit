@@ -51,7 +51,12 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
 | Power Supply                      |        1         |    Custom                                                        |           |
 | Arduino Mega 2560                 |        1         |    Wholesale                                                     | [Amazon](https://amzn.to/2Lqf35R) |
-| Main Motor                        |        2         |    [Maslow]()
+| Main Motor                        |        2         |[Maslow](https://www.maslowcnc.com/store/regular-machine-motor-cable)|        |
+| Elastic Cord                      |        2         |    [Amazon](https://amzn.to/2O5Hq83)                             |           |
+| Elastic Cord Pullies              |        2         |    [Amazon](https://amzn.to/2uNhLYR)                             |           |
+| Z-axis Motor                      |        1         |    Custom                                                        |           |
+| Motor Cable                       |        2         |    Custom                                                        |           |
+| Z-axis Cable                      |        1         |    Custom                                                        |           |
 
 ## Other
 
