@@ -45,7 +45,7 @@ This is a complete list of the parts that come in the kit. Note that many of the
 
 |    Part                           |   # Included     |     Source                                                       |   Alt Source   |
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
-| Power Supply                      |        1         |    Custom                                                        |           |
+| Power Supply (2.5mmx5.5mm plug )  |        1         |    Custom                                                        |           |
 | Arduino Mega 2560                 |        1         |    Wholesale                                                     | [Amazon](https://amzn.to/2Lqf35R) |
 | Main Motor                        |        2         |[Maslow](https://www.maslowcnc.com/store/regular-machine-motor-cable)|        |
 | Z-axis Motor                      |        1         |    Custom                                                        |           |
@@ -56,9 +56,9 @@ This is a complete list of the parts that come in the kit. Note that many of the
 
 |    Part                           |   # Included     |     Source                                                       |   Alt Source   |
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
-| Elastic Cord                      |        2         |    [Amazon](https://amzn.to/2O5Hq83)                             |           |
-| Elastic Cord Pulleys              |        2         |    [Amazon](https://amzn.to/2uNhLYR)                             |           |
-| Chain                             |        2         |    Custom                                | [Amazon](https://amzn.to/2O3Ik4N) |
+| Elastic Cord                      |         2        |    [Amazon](https://amzn.to/2O5Hq83)                             |           |
+| Elastic Cord Pulleys              |         2        |    [Amazon](https://amzn.to/2uNhLYR)                             |           |
+| Chain                             |         2        |    Custom                                | [Amazon](https://amzn.to/2O3Ik4N) |
 |Motor sprocket                     |         2        |    Custom                                                        |           |
 |Slack Sprocket                     |         2        |    Custom                                                        |           |
 |Heatsink                           |         2        |    Custom                                                        |           |
