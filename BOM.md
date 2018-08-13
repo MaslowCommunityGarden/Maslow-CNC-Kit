@@ -9,10 +9,10 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |  Cotter Pins                      |         2        |[fastenall](https://www.fastenal.com/products/details/45287)      |           |
 |Brick Mounting Bolts               |         4        |[fastenall](https://www.fastenal.com/products/details/21171)      |           |
 |Brick Mounting Nuts                |         4        |[fastenall](https://www.fastenal.com/products/details/1136102)    |           |
-|Short Wood Screws                  |        14        |[fastenall](https://www.fastenal.com/products/details/32171)      |           |
-|Long Wood Screws                   |        90        |[fastenall](https://www.fastenal.com/products/details/32176)      |           |
+|Short Wood Screws                  |        14        |[fastenall](https://www.fastenal.com/products/details/32182)      |           |
+|Long Wood Screws                   |        90        |[fastenall](https://www.fastenal.com/products/details/32187)      |           |
 |Motor Mounting Screw               |         8        |[fastenall](https://www.fastenal.com/products/details/91200)      |           |
-|Motor Mounting Washer              |         8        |[fastenall](https://www.fastenal.com/products/details/91200)      |           |
+|Motor Mounting Washer              |         8        |[fastenall](https://www.fastenal.com/products/details/40379)      |           |
 |Set Screw for Motor Sprocket       |         2        |[fastenall](https://www.fastenal.com/products/details/39847)      |           |
 |Set Screw Allen Wrench             |         1        |[fastenall](https://www.fastenal.com/products/details/40407)      |           |
 |Arduino Screws                     |         4        |[fastenall](https://www.fastenal.com/products/details/31204)      |           |
