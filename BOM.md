@@ -37,7 +37,7 @@ This is a complete list of the parts that come in the kit. Note that many of the
 |    Part                           |   # Included     |     Source                                                       |   Alt Source   |
 |-----------------------------------|:----------------:|-----------------------------------------------------------------:|-----------|
 | Motor Mount                       |        2         |                                                                  |[Amazon](https://amzn.to/2LqkbHd)
-| L-Bracket                         |        5         |                            Custom                                |           |
+| L-Bracket                         |        5         |                            https://maslowsurplusparts.com/products/l-bracket                                |           |
 | Ring                              |        1         |                            Custom                                |           |
 
 ## Electronics
